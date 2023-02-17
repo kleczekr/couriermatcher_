@@ -1,0 +1,86 @@
+[
+  {
+    "courier_names": ["Deutsche Post DHL", "DHL"],
+    "country": "Germany",
+    "track123_code": "dhl-germany",
+    "tracking_nos_examples": [
+      "445209416454",
+      "00340434192314429377",
+      "Cx000000000DE",
+      "Lx000000000DE",
+      "Rx000000000DE"
+    ]
+  },
+  {
+    "courier_names": ["Hermes", "Hermes Germany"],
+    "country": "Germany",
+    "track123_code": "hermes-de",
+    "tracking_nos_examples": ["07708825034974"]
+  },
+  {
+    "courier_names": ["DPD", "DPD Germany"],
+    "country": "Germany",
+    "track123_code": "dpd-de",
+    "tracking_nos_examples": ["01395037920222"]
+  },
+  {
+    "courier_names": ["Royal Mail", "royal-mail"],
+    "country": "United Kingdom",
+    "track123_code": "royal-mail",
+    "tracking_nos_examples": [
+      "JV620553954GB",
+      "050111C31F4",
+      "32048619500001B3A6F40",
+      "0210DAD9015248A2",
+      "0B0480284000010307090"
+    ]
+  },
+  {
+    "courier_names": ["Parcelforce", "Parcel Force"],
+    "country": "United Kingdom",
+    "track123_code": "parcelforce",
+    "tracking_nos_examples": [
+      "EE698742743GB",
+      "EE584464110GB",
+      "EK333490866GB",
+      "AA1234567",
+      "AAAA1234567890",
+      "AA123456789GB",
+      "123456789012"
+    ]
+  },
+  {
+    "courier_names": ["Hermes", "Hermes UK", "MyHermes UK"],
+    "country": "United Kingdom",
+    "track123_code": "hermes-uk",
+    "tracking_nos_examples": ["1234567891234567", "T008MA0023413759"]
+  },
+  {
+    "courier_names": ["Yodel", "Yodel UK"],
+    "country": "United Kingdom",
+    "track123_code": "yodel",
+    "tracking_nos_examples": [
+      "JJD0002257639032011",
+      "JJD0002257639032013",
+      "JD0002242617644732",
+      "JD0002254405060992",
+      "JD0002249043558087"
+    ]
+  },
+  {
+    "courier_names": ["TNT", "TNT UK"],
+    "country": "United Kingdom",
+    "track123_code": "tnt",
+    "tracking_nos_examples": [
+      "GD715371925WW",
+      "GD165194453WW",
+      "GD165194776WW",
+      "GD632306561WW",
+      "GE695447441WW",
+      "199863650",
+      "177847807",
+      "506823406",
+      "542020010"
+    ]
+  }
+]
