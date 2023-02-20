@@ -82,5 +82,68 @@
       "506823406",
       "542020010"
     ]
+  },
+  {
+    "courier_names": ["La Poste", "Laposte", "La Poste France"],
+    "country": "France",
+    "track123_code": "laposte",
+    "tracking_nos_examples": ["LF049252319FR", "CY226637753DE"]
+  },
+  {
+    "courier_names": ["Chronopost", "Chronopost France"],
+    "country": "France",
+    "track123_code": "chronopost",
+    "tracking_nos_examples": ["XJ980657053JF", "XX123456789FR"]
+  },
+  {
+    "courier_names": ["Colissimo", "Colissimo France"],
+    "country": "France",
+    "track123_code": "colissimo",
+    "tracking_nos_examples": ["EE123456789IN", "XX123456789FR"]
+  },
+  {
+    "courier_names": ["Swiss Post", "Swiss Post International"],
+    "country": "Switzerland",
+    "track123_code": "swiss-post",
+    "tracking_nos_examples": [
+      "99.00.123456.19584678",
+      "97.11.126656.15948678",
+      "CE173**CZ",
+      "TT233**CZ"
+    ]
+  },
+  {
+    "courier_names": ["Austrian Post"],
+    "country": "Austria",
+    "track123_code": "austrian-post",
+    "tracking_nos_examples": ["CD101509818AT", "CA102823585AT"]
+  },
+  {
+    "courier_names": [
+      "Poste Italiane",
+      "Poste Italiane S.p.A.",
+      "Poste Italiane S.p.A"
+    ],
+    "country": "Italy",
+    "track123_code": "poste-italiane",
+    "tracking_nos_examples": ["RC260989295IT", "5P52C2044254"]
+  },
+  {
+    "courier_names": ["Correos", "Correos de Espa\u00f1a"],
+    "country": "Spain",
+    "track123_code": "correos-spain",
+    "tracking_nos_examples": [
+      "RT123456789ES",
+      "EE123456789ES",
+      "CA123456789ES",
+      "RF270771390ES",
+      "LK073638448FR"
+    ]
+  },
+  {
+    "courier_names": ["Australia Post"],
+    "country": "Australia",
+    "track123_code": "australia-post",
+    "tracking_nos_examples": ["AA777777777AU"]
   }
 ]
